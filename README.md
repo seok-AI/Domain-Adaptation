@@ -3,11 +3,12 @@
 ## Content
 1. [Augmentation](#train-data-Augmentation)
 2. [DANN](#DANN)
-3. [post processing](#post-processing-mask)
-4. [mask algorithm](#mask-algorithm)
-5. [Result](#Result-(target-source-image))
-6. [Leaderboard](#Leaderboard)
-7. [Reference](#Reference)
+3. [Loss](#Loss)
+4. [post processing](#post-processing-mask)
+5. [mask algorithm](#mask-algorithm)
+6. [Result](#Result-(target-source-image))
+7. [Leaderboard](#Leaderboard)
+8. [Reference](#Reference)
 
 ## train data Augmentation
 
@@ -16,6 +17,11 @@
 ## DANN
 
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/e65f3a97-0ea6-4053-bbbb-70ccc9290151)
+
+## Loss
+
+![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/be2149e9-070b-4ad1-a387-8a0fe34a2867)
+
 
 ## post processing mask
 
