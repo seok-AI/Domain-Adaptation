@@ -1,5 +1,13 @@
 # Samsung AI Challenge: Camera-Invariant Domain Adaptation
 
+## Content
+1. [Augmentation](#train-data-Augmentation)
+2. [DANN](#DANN)
+3. [post processing](#post-processing-mask)
+4. [mask algorithm](#mask-algorithm)
+5. [Result](#Result-(target-source-image))
+6. [Reference](#Reference)
+
 ## train data Augmentation
 
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/d6d43aa0-fc3f-471e-80de-f9f78a751a5e)
