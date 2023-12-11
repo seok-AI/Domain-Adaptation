@@ -6,7 +6,7 @@
 3. [Loss](#Loss)
 4. [post processing](#post-processing-mask)
 5. [mask algorithm](#mask-algorithm)
-6. [Result](#Result-(target-source-image))
+6. [Result](#Result)
 7. [Leaderboard](#Leaderboard)
 8. [Reference](#Reference)
 
@@ -31,7 +31,7 @@
 We devised an algorithm that reverses the mask and puts it on the image and puts the mask up to the peak of the first derivative of the intensity.
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/5f373553-d394-4ff8-b488-6b21cfb37ce1)
 
-## Result (target source image)
+## Result
 
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/a7c1b4d5-3de8-496a-a25e-1c5db571b647)
 
