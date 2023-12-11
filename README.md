@@ -4,6 +4,10 @@
 
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/d6d43aa0-fc3f-471e-80de-f9f78a751a5e)
 
+## DANN
+
+![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/e65f3a97-0ea6-4053-bbbb-70ccc9290151)
+
 ## post processing mask
 
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/001fa84b-64c9-49d1-a83c-a07357c15d20)
