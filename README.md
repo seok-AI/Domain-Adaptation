@@ -2,7 +2,7 @@
 
 ## train data Augmentation
 
-![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/d6d43aa0-fc3f-471e-80de-f9f78a751a5e)
+![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/d6d43aa0-fc3f-471e-80de-f9f78a751a5e){: width="100" height="100"}
 
 ## DANN
 
