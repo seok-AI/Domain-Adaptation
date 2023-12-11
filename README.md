@@ -22,7 +22,7 @@
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/001fa84b-64c9-49d1-a83c-a07357c15d20)
 
 ## mask algorithm
-
+We devised an algorithm that reverses the mask and puts it on the image and puts the mask up to the peak of the first derivative of the intensity.
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/5f373553-d394-4ff8-b488-6b21cfb37ce1)
 
 ## Result (target source image)
@@ -30,7 +30,7 @@
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/a7c1b4d5-3de8-496a-a25e-1c5db571b647)
 
 ## Leaderboard
-### We achieved 19th place out of 681 participants!
+### We achieved 19th place out of 682 participants!
 
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/ee34aa8a-1bd8-41df-8d53-909f7c38176b)
 
