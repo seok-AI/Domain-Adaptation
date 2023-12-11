@@ -6,7 +6,8 @@
 3. [post processing](#post-processing-mask)
 4. [mask algorithm](#mask-algorithm)
 5. [Result](#Result-(target-source-image))
-6. [Reference](#Reference)
+6. [Leaderboard](#Leaderboard)
+7. [Reference](#Reference)
 
 ## train data Augmentation
 
@@ -28,7 +29,8 @@
 
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/a7c1b4d5-3de8-496a-a25e-1c5db571b647)
 
-## 19th of 682 people !
+## Leaderboard
+### We achieved 19th place out of 681 participants!
 
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/ee34aa8a-1bd8-41df-8d53-909f7c38176b)
 
