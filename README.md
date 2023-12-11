@@ -32,7 +32,7 @@ We devised an algorithm that reverses the mask and puts it on the image and puts
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/5f373553-d394-4ff8-b488-6b21cfb37ce1)
 
 ## Result
-
+target-source-image
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/a7c1b4d5-3de8-496a-a25e-1c5db571b647)
 
 ## Leaderboard
