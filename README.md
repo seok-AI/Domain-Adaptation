@@ -25,5 +25,5 @@
 ![image](https://github.com/seok-AI/Domain-Adaptation/assets/85815265/ee34aa8a-1bd8-41df-8d53-909f7c38176b)
 
 ## Reference
-### https://github.com/fungtion/DANN_py3?tab=readme-ov-file
-### https://dacon.io/competitions/official/236132/overview/description
+https://github.com/fungtion/DANN_py3?tab=readme-ov-file
+https://dacon.io/competitions/official/236132/overview/description
